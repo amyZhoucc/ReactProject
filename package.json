@@ -1,0 +1,22 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "week1_exercise",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amyZhoucc/ReactProject.git"
+  },
+  "author": "zcc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amyZhoucc/ReactProject/issues"
+  },
+  "homepage": "https://github.com/amyZhoucc/ReactProject#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
